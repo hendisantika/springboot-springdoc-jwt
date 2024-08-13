@@ -28,7 +28,7 @@ dependencies {
 
     implementation("org.springdoc:springdoc-openapi-ui:1.8.0")
     implementation("org.springdoc:springdoc-openapi-kotlin:1.6.9")
-    implementation("org.springdoc:springdoc-openapi-data-rest:1.6.9")
+    implementation("org.springdoc:springdoc-openapi-data-rest:1.8.0")
 
     implementation("io.jsonwebtoken:jjwt-api:0.12.6")
     implementation("io.jsonwebtoken:jjwt-impl:0.11.2")
