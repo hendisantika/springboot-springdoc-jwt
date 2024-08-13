@@ -26,7 +26,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     runtimeOnly("com.h2database:h2")
 
-    implementation("org.springdoc:springdoc-openapi-ui:1.6.9")
+    implementation("org.springdoc:springdoc-openapi-ui:1.8.0")
     implementation("org.springdoc:springdoc-openapi-kotlin:1.6.9")
     implementation("org.springdoc:springdoc-openapi-data-rest:1.6.9")
 
