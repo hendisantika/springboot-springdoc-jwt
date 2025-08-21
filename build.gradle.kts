@@ -30,9 +30,9 @@ dependencies {
     implementation("org.springdoc:springdoc-openapi-kotlin:1.8.0")
     implementation("org.springdoc:springdoc-openapi-data-rest:1.8.0")
 
-    implementation("io.jsonwebtoken:jjwt-api:0.12.7")
-    implementation("io.jsonwebtoken:jjwt-impl:0.12.7")
-    implementation("io.jsonwebtoken:jjwt-jackson:0.12.7")
+    implementation("io.jsonwebtoken:jjwt-api:0.13.0")
+    implementation("io.jsonwebtoken:jjwt-impl:0.13.0")
+    implementation("io.jsonwebtoken:jjwt-jackson:0.13.0")
 
     testImplementation("org.springframework.boot:spring-boot-starter-test") {
         exclude(group = "org.junit.vintage", module = "junit-vintage-engine")
